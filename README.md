@@ -114,12 +114,6 @@ Specifically, In the main function's parameters:
 - [Shikra](https://github.com/shikras/shikra)
 - [InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer)
 
-## Cite our work📝
-```bibtex
-Coming soon.
-```
-
-## Acknowledgement
 
 
 
