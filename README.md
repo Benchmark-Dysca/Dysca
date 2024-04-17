@@ -1,33 +1,4 @@
 
-
-
-
-<p align="center">
-    <img src="figure/icon0.webp" width="150" style="margin-bottom: 0.2;"/>
-<p>
-<h2 align="center"> 🎨Dysca: A Dynamic and Scalable Synthesis Benchmark for Evaluating Large Vision-Language Models</h2>
-<h4 align="center">
-  Zhongqi Wang<sup>*1</sup>, 
-  Mengqi Lei<sup>*2</sup>, 
-  Bei yan<sup>1</sup>, 
-  Zheng yuan<sup>1</sup>, 
-  jie Zhang<sup>1✉</sup>, 
-  Shiguang Shan<sup>1</sup>, 
-  Xilin Chen<sup>1</sup>
-</h4>
-<ul align="center">
-  <sup>1</sup>Institute of Computing Technology, Chinese Academy of Sciences
-  <sup>2</sup>China University of Geosciences
-</ul>
-<ul align="center">
-  <sup>✉</sup>Corresponding Author: jiezhang@ict.ac.cn
-</ul>
-<ul align="center">
-*Equal contribution
-</ul>
-<h4 align="center"> 🎉If you like our project, please give us a star ⭐ on GitHub for latest update.  </h4>
-
-
 ## Overview🔍
 <div>
     <img src="./figure/framework.svg" width="96%" height="96%">
