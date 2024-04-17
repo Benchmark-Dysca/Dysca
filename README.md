@@ -2,6 +2,7 @@
     <img src="figure/icon0.webp" width="150" style="margin-bottom: 0.2;"/>
 <p>
 <h2 align="center"> 🎨Dysca: A Dynamic and Scalable Synthesis Benchmark for Evaluating Large Vision-Language Models</h2>
+    
 ## Overview🔍
 <div>
     <img src="./figure/framework.svg" width="96%" height="96%">
