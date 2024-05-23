@@ -16,7 +16,7 @@
 **Figure 1. Overview of the automatic pipeline in Dysca for generating VQAs, cleaning VQAs and evaluating LVLMs.**
 
 <br> </br>
-<div>
+<div align=center>
   <img src="./figure/subtasks.svg" width="40%" height="40%">
 </div>
 
