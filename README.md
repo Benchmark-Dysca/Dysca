@@ -3,27 +3,10 @@
 <p>
 <h2 align="center"> 🎨Dysca: A Dynamic and Scalable Benchmark for Evaluating Perception Ability of LVLMs</h2>
 
-<h4 align="center">
-  jie Zhang<sup>1✉</sup>, 
-  Zhongqi Wang<sup>1</sup>, 
-  Mengqi Lei<sup>2</sup>, 
-  Bei yan<sup>1</sup>, 
-  Zheng yuan<sup>1</sup>,
-  Shiguang Shan<sup>1</sup>, 
-  Xilin Chen<sup>1</sup>
-</h4>
-<ul align="center">
-  <sup>1</sup>Institute of Computing Technology, Chinese Academy of Sciences
-  <sup>2</sup>China University of Geosciences
-</ul>
-<ul align="center">
-  <sup>✉</sup>Corresponding Author: jiezhang@ict.ac.cn
-</ul>
+
 <h4 align="center"> 🎉If you like our project, please give us a star ⭐ on GitHub for latest update.  </h4>
 
 [![arxiv](https://img.shields.io/badge/arXiv-Coming%20Soon-red.svg)](https://arxiv.org/)
-[![website](https://img.shields.io/badge/Website-Coming%20Soon-blue.svg)](https://www.ict.ac.cn/)
-
 
 ## Overview🔍
 <div>
