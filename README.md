@@ -20,7 +20,7 @@
   <img src="./figure/subtasks.svg" width="40%" height="40%">
 </div>
 
-**Figure 2. The available subtasks of our Dysca.**
+<p align="center">Figure 2. The available subtasks of our Dysca.</p>
 <br> </br>
 
 **_Abstract -_** The remarkable advances of the Large Vision-Language Models (LVLMs) motivate the requirement to evaluate them. Among various evaluation aspects, perception is considered the most fundamental capability, and many benchmarks make efforts to assess that. However, most benchmarks conduct questions by selecting images from previous benchmarks rather than using in the wild images, resulting in a potential data leakage. Besides, these benchmarks merely focus on evaluating LVLMs on the realistic style images and clean scenarios, leaving the multi-stylized images and complex scenarios unexplored. In response to these challenges, we propose Dysca, a dynamic and scalable benchmark for evaluating LVLMs by leveraging synthesis images. 
