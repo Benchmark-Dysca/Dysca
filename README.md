@@ -13,7 +13,7 @@
     <img src="./figure/dysca_framework.svg" width="96%" height="96%">
 </div>
 
-**Figure 1. Overview of the automatic pipeline in Dysca for generating VQAs, cleaning VQAs and evaluating LVLMs.**
+<p align="center">Figure 1. Overview of the automatic pipeline in Dysca for generating VQAs, cleaning VQAs and evaluating LVLMs.</p>
 
 <br> </br>
 <div align=center>
