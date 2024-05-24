@@ -1,0 +1,20 @@
+Doctor
+Teacher
+Chef
+Athlete
+Engineer
+Painter
+Scientist
+Firefighter
+Pilot
+PoliceOfficer
+Journalist
+Farmer
+Carpenter
+Hairdresser
+Photographer
+Soldier
+Dentist
+IT Specialist
+Surgeon
+Cleaning staff

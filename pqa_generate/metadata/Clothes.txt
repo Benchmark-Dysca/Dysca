@@ -1,0 +1,16 @@
+t-shirt
+sweater
+hoodie
+vest
+camisole
+jeans
+shorts
+suit pants
+cargo pants
+dress
+maxi skirt
+pleated skirt
+trench coat
+leather jacket
+blazer
+bomber jacket

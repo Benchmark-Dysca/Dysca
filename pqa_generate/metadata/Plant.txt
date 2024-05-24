@@ -1,0 +1,37 @@
+rose flower
+tulip flower
+chrysanthemum flower
+sunflower
+violet flower
+lily flower
+carnation flower
+lilac flower
+camellia flower
+hydrangea flower
+pomegranate
+cherry blossom tree
+maple tree
+birch tree
+banyan tree
+cactus
+agave
+tomato
+carrot
+cucumber
+lettuce
+potato
+onion
+bell pepper
+spinach
+broccoli
+pumpkin
+banana
+apple (fruit)
+orange (fruit)
+strawberry
+grape
+watermelon
+lemon
+mango
+pear
+cherry (plant)
