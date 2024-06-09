@@ -1,5 +1,5 @@
 ## Usage
-> Generate data by you own
+> Generate your own data
 
 ### Clean scenario
 
