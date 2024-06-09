@@ -1,8 +1,7 @@
-## Generate data by you own
+## Usage
+> Generate data by you own
 
 ### Clean scenario
-
-> Generate images from json file:
 
 ```
 # generate text images
