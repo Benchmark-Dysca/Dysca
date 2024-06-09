@@ -1,6 +1,6 @@
 ## Generate data by you own
 
-#### Clean scenario
+### Clean scenario
 
 > Generate images from json file:
 
@@ -12,13 +12,13 @@ python generate_data_ocr.py --input_file ./Dysca.json --output_file ./Dysca --se
 python generate_data.py --input_file Dysca.json --output_file ./Dysca --seed 2024 --sdxl_model stabilityai/stable-diffusion-xl-base-1.0 --device "cuda:0" 
 ```
 
-#### Corruption Scenario
+### Corruption Scenario
 
 ```
 python corruption.py --input_file ./Dysca.json --input_image_dir ./Dysca --output_image_dir ./Dysca_corruption --seed 2024
 ```
 
-#### Print-attacking Scenario
+### Print-attacking Scenario
 
 ```
 python print_attack.py --input_file ./Dysca.json --input_image_dir ./Dysca --output_image_dir ./Dysca_print_attack --seed 2024
