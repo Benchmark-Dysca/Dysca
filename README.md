@@ -26,7 +26,7 @@
 
 ## Download 📩
 
-We provide two types of downloading methods:
+We provide two types of downloading ways:
 
 - [Baidu Disk](https://pan.baidu.com/s/1SGK1wmfuPSll_cC0L0CH0g?pwd=wro9 )
 - [Terabox]()
