@@ -6,6 +6,7 @@
 
 <h4 align="center"> 🎉If you like our project, please give us a star ⭐ on GitHub for latest update.  </h4>
 
+This repo is repleced by new version of Dysca at https://github.com/Robin-WZQ/Dysca
 
 ## Overview🔍
 <div>
